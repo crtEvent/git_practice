@@ -10,3 +10,5 @@
 ## 브랜치 변경하기
 - branch: 기존 내용을 유지하 채 새로운 내용을 추가/변경하고 싶을 때 사용
 - checkout: 특정 브랜치(or commit)으로 돌아가고 싶을 때 사용
+
+## 충돌 테스트 2.version2에서 hello.md 수정 후 merge하기
